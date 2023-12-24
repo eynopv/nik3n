@@ -88,7 +88,7 @@
     </main>
 </Container>
 
-<div class="absolute top-0 right-0 h-[700px] w-1/2 z-[-1]">
+<div class="absolute top-0 right-0 h-[700px] w-1/2 z-[-1] animate-fadein-500 opacity-0">
     <div class="w-full h-full bg-[url('/header.jpg')] bg-left-bottom bg-no-repeat bg-cover"></div>
     <div
         class="absolute top-0 w-full h-full bg-gradient-to-r from-pureWhite/100 to-pureWhite/0"
