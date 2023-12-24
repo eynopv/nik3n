@@ -30,7 +30,7 @@
     </Container>
 
     <div class="absolute top-0 right-0 h-full w-full z-[-1]">
-        <div class="w-full h-full bg-[url('footer.jpg')] bg-top bg-no-repeat bg-cover"></div>
+        <div class="w-full h-full bg-[url('/footer.jpg')] bg-top bg-no-repeat bg-cover"></div>
         <div
             class="absolute top-0 w-full h-full bg-gradient-to-b from-pureWhite/100 to-pureWhite/0"
         ></div>
