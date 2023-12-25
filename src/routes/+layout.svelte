@@ -1,4 +1,5 @@
 <script lang="ts">
+    import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
     import '../app.css';
     import Nav from '../components/Nav.svelte';
     import Footer from '../components/Footer.svelte';
