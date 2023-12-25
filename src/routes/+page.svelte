@@ -15,10 +15,10 @@
         <article class="h-[600px] flex flex-col justify-center">
             <div class="w-[600px] max-w-full">
                 <h1
-                    class="font-antonio text-7xl font-thin text-neutral-800 leading-tight
+                    class="font-antonio text-6xl sm:text-7xl font-thin text-neutral-800 leading-tight
                            overflow-hidden"
                 >
-                    <div class="animate-reveal-500 translate-y-full">
+                    <div class="animate-reveal-500 translate-y-full py-4">
                         Specifically <span class="font-bold text-neutral-950">Crafted</span> for
                         Professional
                         <span class="font-bold text-neutral-950">Anglers</span>
