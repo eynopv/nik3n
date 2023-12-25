@@ -14,7 +14,7 @@
             <Button href="#akira">Akira</Button>
         </div>
 
-        <div id="ultra-base" class="pt-32 animate-fadein-500 opacity-0">
+        <div id="ultra-base" class="pt-16 animate-fadein-500 opacity-0">
             <Product
                 name="Ultra-Base"
                 properties={[
